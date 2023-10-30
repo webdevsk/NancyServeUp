@@ -7,19 +7,19 @@
 <td>
 
 Escritorio
-![Alt text](image.png)
+![Alt text](images/image.png)
 
 </td>
 <td>
 
 Tableta
-![Alt text](image-1.png)
+![Alt text](images/image-1.png)
 
 </td>
 <td>
 
 Móvil
-![Alt text](image-2.png)
+![Alt text](images/image-2.png)
 
 </td>
 </tr>
