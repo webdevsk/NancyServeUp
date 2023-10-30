@@ -25,6 +25,29 @@ Móvil
 </tr>
 </table>
 
+## Índice
+
+- [NancyServeup.com](#nancyserveupcom)
+  - [Vista original](#vista-original)
+  - [Índice](#índice)
+- [Cambios a realizar](#cambios-a-realizar)
+  - [Base](#base)
+  - [Cabecera de contacto](#cabecera-de-contacto)
+  - [Cabecera principal](#cabecera-principal)
+  - [Pie de página](#pie-de-página)
+  - [Página de inicio](#página-de-inicio)
+  - [Quiénes somos](#quiénes-somos)
+  - [Empleo](#empleo)
+  - [Archivo del blog](#archivo-del-blog)
+  - [Blog](#blog)
+  - [Care of the elderly/cuidados-del-adulto-mayor](#care-of-the-elderlycuidados-del-adulto-mayor)
+  - [Medicina/medicina-integrativa](#medicinamedicina-integrativa)
+  - [Quiropractico](#quiropractico)
+  - [Entrenador-personal](#entrenador-personal)
+  - [Otros](#otros)
+
+# Cambios a realizar
+
 ## Base
 
 - [ ] Cambiar todo el diseño del contenedor y arreglarlo para pantallas más anchas

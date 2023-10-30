@@ -25,6 +25,29 @@ Mobile
 </tr>
 </table>
 
+## Table of contents
+
+- [NancyServeup.com](#nancyserveupcom)
+  - [Original view](#original-view)
+  - [Table of contents](#table-of-contents)
+- [Changes to be made](#changes-to-be-made)
+  - [Base](#base)
+  - [Contact Header](#contact-header)
+  - [Main Header](#main-header)
+  - [Footer](#footer)
+  - [Home page](#home-page)
+  - [Who we are](#who-we-are)
+  - [Employment](#employment)
+  - [Blog archive](#blog-archive)
+  - [Blog](#blog)
+  - [Care of the elderly/cuidados-del-adulto-mayor](#care-of-the-elderlycuidados-del-adulto-mayor)
+  - [Medicine/medicina-integrativa](#medicinemedicina-integrativa)
+  - [Quiropractico](#quiropractico)
+  - [Entrenador-personal](#entrenador-personal)
+  - [Others](#others)
+
+# Changes to be made
+
 ## Base
 
 - [ ] Change entire container layout and fix for Wider screens
