@@ -1,8 +1,33 @@
 # NancyServeup.com
 
+## Original view
+
+<table>
+<tr valign=top align=center>
+<td>
+
+Desktop
+![Alt text](image.png)
+
+</td>
+<td>
+
+Tablet
+![Alt text](image-1.png)
+
+</td>
+<td>
+
+Mobile
+![Alt text](image-2.png)
+
+</td>
+</tr>
+</table>
+
 ## Base
 
-- [ ] Change entire container layout
+- [ ] Change entire container layout and fix for Wider screens
 - [ ] Change font
 - [ ] Change colors
 - [ ] Change button design
@@ -34,32 +59,33 @@
 
 ## Home page
 
-- [ ] Slider/ Change hero slider animation, spacing, font size and background. Change slider button style
+- [ ] Change hero slider animation, spacing, font size and background. Change slider button style
 - [ ] Make the book link portion bigger and eye catchy. Add more information
 - [ ] Fix services tab design and change animation. Make it float over last or next element
 - [ ] Modify CEO section and make the video bigger, Give rounded edges
-- [ ] Slider/ Reduce image count and change layout. Not sure what to do yet
-- [ ] Change information section
+- [ ] Redesign Slider
+- [ ] Add a section about cleaning services
+- [ ] Redesign information section
 - [ ] Change spacing between sections
-- [ ] Change header and body font sizes
-- [ ] Make video slider portrait
-- [ ] Redesign reviews section
+- [ ] Change heading and body font sizes
+- [ ] Make video slider portrait shape
+- [ ] Fix reviews section layout
 - [ ] Reduce border radius in posts archive, smaller heading and reduce excerpt. Change grid layout if needed
 
-## Who we are/Quiénes somos
+## Who we are
 
 - [ ] Reduce hero height
 - [ ] Modify CEO section slightly. Add background colors behind CEO image
 - [ ] Make all doctors show initially
 - [ ] Background color on specialists
 - [ ] Change form layout and background
-- [ ] You are a section with 2 different background colors
+- [ ] "You are a" section with 2 different background colors
 
-## Employment/Empleo
+## Employment
 
 - [ ] Change form background
 - [ ] Layout inside form
-- [ ] CHange checkbox design
+- [ ] Change checkbox design
 - [ ] Middle robot check
 - [ ] Big submit button
 - [ ] Ask if responsibilities should be below or right after form
@@ -98,12 +124,12 @@
 
 ## Entrenador-personal
 
-- [ ] Add background color.
+- [ ] Add background color
 - [ ] Reduce height of each columns
 - [ ] Add more photos
 
-## Broader works
+## Others
 
-- [ ] Make responsive for mobile and tab
-- [ ] Blog posts meta for google search
-- [ ] Faster page load
+- [ ] Make responsive for mobile and tab for all the works above
+- [ ] Faster page load for Google SEO support
+- [ ] Fix Whatsapp plugin
