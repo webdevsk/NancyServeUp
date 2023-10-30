@@ -1,3 +1,5 @@
+<!-- title: NancyServeUp - Project Task List -->
+
 # NancyServeup.com
 
 ## Vista original
@@ -7,19 +9,19 @@
 <td>
 
 Escritorio
-![Alt text](images/image.png)
+![Alt text](./images/image.png)
 
 </td>
 <td>
 
 Tableta
-![Alt text](images/image-1.png)
+![Alt text](./images/image-1.png)
 
 </td>
 <td>
 
 Móvil
-![Alt text](images/image-2.png)
+![Alt text](./images/image-2.png)
 
 </td>
 </tr>
